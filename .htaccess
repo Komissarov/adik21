@@ -1,0 +1,5 @@
+PassengerRuby /opt/rubies/ruby-2.3/bin/ruby
+PassengerUploadBufferDir /home/u/u92656nz/skidka.ru/tmp
+SetENV GEM_HOME /home/u/u92656nz/.gem/ruby/2.3.1
+SetENV GEM_PATH /home/u/u92656nz/.gem/ruby/2.3.1:/opt/ruby/2.3/lib/ruby/gems/2.3.0
+RAILSENV development
