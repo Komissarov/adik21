@@ -48,3 +48,4 @@ end
 gem 'rb-readline'
 gem 'i18n'
 gem 'therubyracer'
+gem 'mechanize'
